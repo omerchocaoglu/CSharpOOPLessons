@@ -1,0 +1,7 @@
+C:\Users\omer\source\repos\PatikaC#Projects\PatikaC#Projects\bin\Debug\PatikaC#Projects.exe.config
+C:\Users\omer\source\repos\PatikaC#Projects\PatikaC#Projects\bin\Debug\PatikaC#Projects.exe
+C:\Users\omer\source\repos\PatikaC#Projects\PatikaC#Projects\bin\Debug\PatikaC#Projects.pdb
+C:\Users\omer\source\repos\PatikaC#Projects\PatikaC#Projects\obj\Debug\PatikaC#Projects.csproj.AssemblyReference.cache
+C:\Users\omer\source\repos\PatikaC#Projects\PatikaC#Projects\obj\Debug\PatikaC#Projects.csproj.CoreCompileInputs.cache
+C:\Users\omer\source\repos\PatikaC#Projects\PatikaC#Projects\obj\Debug\PatikaC#Projects.exe
+C:\Users\omer\source\repos\PatikaC#Projects\PatikaC#Projects\obj\Debug\PatikaC#Projects.pdb
